@@ -1,0 +1,14 @@
+06-01-2025, Monday 01:34:59 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 01:36:09 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 10:40:43 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 10:53:09 [INFO] Network Reconnection Successful
+06-01-2025, Monday 10:53:09 [INFO] Created a fresh kafka consumer
+06-01-2025, Monday 12:30:19 [INFO] Created a fresh kafka consumer
+06-01-2025, Monday 12:36:29 [INFO] Created a fresh kafka consumer
+06-01-2025, Monday 12:44:31 [INFO] Created a fresh kafka consumer
+06-01-2025, Monday 12:45:08 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 12:45:14 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+06-01-2025, Monday 12:52:11 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 16:45:47 [ERROR] Network Issue: Unable to Connect to the Server
+06-01-2025, Monday 16:47:06 [INFO] Network Reconnection Successful
+06-01-2025, Monday 16:47:06 [INFO] Created a fresh kafka consumer

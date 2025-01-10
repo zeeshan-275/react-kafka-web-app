@@ -1,0 +1,70 @@
+04-01-2025, Saturday 10:15:32 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+04-01-2025, Saturday 10:15:38 [INFO] Network Reconnection Successful
+04-01-2025, Saturday 10:15:39 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 10:40:36 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 10:46:43 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 10:47:22 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:05:47 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:17:06 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:18:07 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:20:00 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:22:00 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:28:07 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:30:55 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:31:58 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 11:40:52 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 11:41:41 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 11:42:40 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 11:43:40 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+04-01-2025, Saturday 11:44:41 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+04-01-2025, Saturday 11:44:46 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 12:04:42 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 12:05:35 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 12:38:24 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 12:38:24 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+04-01-2025, Saturday 12:39:43 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+04-01-2025, Saturday 12:40:43 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+04-01-2025, Saturday 12:40:48 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 12:40:55 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 12:47:15 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 12:47:15 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+04-01-2025, Saturday 12:52:12 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+04-01-2025, Saturday 12:53:12 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+04-01-2025, Saturday 12:53:18 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 13:07:58 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 13:07:58 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+04-01-2025, Saturday 13:09:28 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+04-01-2025, Saturday 13:10:28 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+04-01-2025, Saturday 13:10:33 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 14:43:13 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+04-01-2025, Saturday 14:43:13 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+04-01-2025, Saturday 14:50:51 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+04-01-2025, Saturday 14:51:51 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+04-01-2025, Saturday 14:51:56 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 15:35:03 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 16:10:24 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 16:30:29 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 16:43:15 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 16:45:51 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 16:53:53 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 17:10:12 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 17:13:57 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 17:28:37 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+04-01-2025, Saturday 17:28:41 [INFO] Network Reconnection Successful
+04-01-2025, Saturday 17:28:41 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 17:29:03 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 17:31:12 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+04-01-2025, Saturday 17:31:15 [INFO] Network Reconnection Successful
+04-01-2025, Saturday 17:31:15 [INFO] Created a fresh kafka consumer
+04-01-2025, Saturday 17:43:31 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 19:21:03 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+04-01-2025, Saturday 19:27:58 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 19:37:21 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 19:47:35 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 21:26:15 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 21:42:13 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 21:43:41 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 22:56:53 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 23:15:56 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 23:38:59 [ERROR] Network Issue: Unable to Connect to the Server
+04-01-2025, Saturday 23:40:34 [ERROR] Network Issue: Unable to Connect to the Server

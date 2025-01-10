@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kafka Messages</title>
+    <style>
+        body {
+            background: radial-gradient(#0202a8, #0000fb);
+            color: #fff;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+        }
+
+        nav {
+            height: 25vh;
+        }
+
+        main {
+            width: 100%;
+            height: 70vh;
+            display: flex;
+        }
+
+        .nav_logo {
+            height: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1.75vw;
+            color: yellow;
+        }
+
+        .nav_logo>img {
+            height: 70%;
+            padding: 0.5vw;
+        }
+
+        .navlower {
+            height: 50%;
+            font-size: 3vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: yellow;
+        }
+
+        .navlower>img {
+            height: 6vw;
+            padding: 0 6vw;
+        }
+
+        table {
+            height: 100%;
+            width: 60vw;
+            margin: auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        tbody {
+            width: 100%;
+        }
+
+        .row {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 8vh;
+        }
+
+        .row>td>img {
+            height: 15vh;
+            border-radius: 10%;
+            border: 0.5vh solid rgb(97, 93, 93)
+        }
+
+        .error {
+            margin: auto;
+            font-size: 4vh;
+            text-align: center;
+            color: #ff0000;
+        }
+
+        .success {
+            margin: auto;
+            font-size: 4vh;
+            text-align: center;
+            color: #00FF00;
+        }
+
+        footer {
+            height: 5vh;
+            display: flex;
+        }
+
+        footer>img {
+            height: 90%;
+            margin: auto;
+            margin-left: 10px;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+
+<body>
+    <nav>
+        <div class="nav_logo">
+            <!-- <img src="{{ url_for('static', filename='img/giventures-logo.png') }}"> -->
+            <img src="../static/img/giventures-logo.png" alt="" srcset="">
+            <div id="disclaimer">Your name will not be displayed if your dataset has not been created</div>
+            <!-- <img src="{{ url_for('static', filename='img/abesit-logo.png') }}"> -->
+            <img src="../static/img/abesit-logo.png" alt="" srcset="">
+        </div>
+        <div class="navlower">
+            <!-- <img src="{{ url_for('static', filename='img/camera-logo.png') }}"> -->
+            <img src="../static/img/camera-logo.png" alt="" srcset="">
+            <div>PLEASE LOOK INTO THE CAMERA</div>
+            <!-- <img src="{{ url_for('static', filename='img/camera-logo.png') }}"> -->
+            <img src="../static/img/camera-logo.png" alt="" srcset="">
+        </div>
+    </nav>
+    <main>
+        <table>
+            <tbody id="rows">
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <!-- <img src="{{ url_for('static', filename='img/nvidia-logo.png') }}"> -->
+        <img src="../static/img/nvidia-logo.png" alt="" srcset="">
+        <marquee class="error" id="error-container" behaviour="scroll" scrollamount="50"></marquee>
+    </footer>
+
+    <!-- <script src="{{ url_for('static', filename='index.js') }}"></script> -->
+    <script src="../static/index.js"></script>
+    <script id="json-data" type="application/json">{{ message|tojson }}</script>
+</body>
+
+</html>

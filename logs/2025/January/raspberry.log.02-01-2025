@@ -1,0 +1,115 @@
+02-01-2025, Thursday 00:06:52 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:11:52 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:16:26 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:24:38 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:27:14 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:41:01 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:42:32 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:44:53 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 00:53:37 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 10:07:25 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 10:08:00 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 10:10:00 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 10:10:05 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:03:29 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:04:08 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:05:13 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:06:03 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:07:21 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:22:03 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:56:00 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 12:58:57 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 13:01:58 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 13:03:33 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 13:04:14 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 13:08:59 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 13:19:05 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+02-01-2025, Thursday 13:19:09 [INFO] Network Reconnection Successful
+02-01-2025, Thursday 13:19:09 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 14:31:04 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:31:04 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 14:33:42 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:33:54 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 14:35:43 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 14:42:21 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 14:45:14 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:45:14 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 14:46:51 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:47:24 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:48:38 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:49:37 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:53:41 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:55:35 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 14:57:35 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 14:57:40 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 14:57:41 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 14:57:41 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 15:13:32 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 15:14:12 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 15:15:07 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 15:17:07 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 15:17:12 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 15:17:14 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 15:17:14 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 15:21:21 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 15:22:11 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 15:22:59 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 15:23:37 [INFO] Network Reconnection Successful
+02-01-2025, Thursday 15:23:37 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 15:29:23 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 15:30:20 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 15:30:20 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 15:30:25 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 15:30:37 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 15:30:42 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+02-01-2025, Thursday 15:31:07 [INFO] Network Reconnection Successful
+02-01-2025, Thursday 15:31:07 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 15:37:04 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 15:47:24 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 15:47:24 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 15:48:53 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 15:48:53 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 15:48:58 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:00:34 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:01:19 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 16:01:19 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 16:03:35 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 16:03:35 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 16:03:40 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:05:21 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:20:27 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:43:27 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:47:03 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 16:47:03 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 16:48:21 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 16:49:21 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 16:49:26 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:49:38 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 16:56:52 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:05:39 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 17:05:39 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 17:06:59 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 17:07:59 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 17:08:04 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:09:47 [ERROR] Facial Recognition System Temporarily Down for Maintenance or Due to an Unexpected Issue
+02-01-2025, Thursday 17:09:47 [WARNING] Deleted Kafka Consumer as the facial recognition system shutdown.
+02-01-2025, Thursday 17:11:13 [INFO] Facial Recognition Attendance System is Getting Started. Please Wait for 2 Minutes
+02-01-2025, Thursday 17:12:13 [INFO] Facial Recognition Attendance System Has Been Started. Please Resume Attendance
+02-01-2025, Thursday 17:12:18 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:12:54 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:14:58 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:29:12 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:36:34 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:47:53 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 17:48:48 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+02-01-2025, Thursday 17:48:48 [INFO] Network Reconnection Successful
+02-01-2025, Thursday 17:48:48 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:51:50 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 17:55:27 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 18:00:11 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 18:02:04 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 18:14:44 [INFO] Created a fresh kafka consumer
+02-01-2025, Thursday 18:17:46 [ERROR] Network Issue: Unable to Connect to the Server
+02-01-2025, Thursday 18:17:52 [WARNING] Deleted Kafka Consumer as the server is not reachable.
+02-01-2025, Thursday 18:18:10 [INFO] Network Reconnection Successful
+02-01-2025, Thursday 18:18:10 [INFO] Created a fresh kafka consumer
