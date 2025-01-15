@@ -12,7 +12,7 @@ const Main = () => {
     const socketRef = useRef();
 
     const handleNewMessage = (messages) => {
-        console.log(messages);
+        // console.log(messages);
         
         messages.forEach((message) => {
             const key = Object.keys(message)[0];
@@ -44,13 +44,17 @@ const Main = () => {
                 } else {
                     const existingMessageIndex = newData.idMessages.findIndex((msg) => msg.id === key);
                     if (existingMessageIndex > -1) {
-                        // newData.idMessages[existingMessageIndex] = { id: key, image: value, timestamp: newData.idMessages[existingMessageIndex].timestamp };
                         newData.idMessages[existingMessageIndex] = { id: key, image: value, timestamp: new Date().getTime() };
 
                     } else {
-                        newData.idMessages.unshift({ id: key, image: value, timestamp: new Date().getTime() });
+                        // newData.idMessages.unshift({ id: key, image: value, timestamp: new Date().getTime() });
+                        newData.idMessages.push({ id: key, image: value, timestamp: new Date().getTime() });
+
                         if (newData.idMessages.length > 15) {
-                            newData.idMessages.pop();
+                            // newData.idMessages.pop();
+                            // newData.idMessages.shift();
+                            newData.idMessages.splice(0, 5);
+
                         }
                     }
                 }
@@ -60,7 +64,7 @@ const Main = () => {
     };
 
     useEffect(() => {
-        socketRef.current = io("http://192.168.15.14:9090");
+        socketRef.current = io("http://localhost:9090");
         socketRef.current.on("new_message", data => { handleNewMessage(data.message) });
         const intervalId = setInterval(() => {
             socketRef.current.emit("check_updates");
@@ -138,7 +142,7 @@ const Main = () => {
             return true;
         });
 
-        console.log("Current Message marquee", marqueeMessage.current);
+        // console.log("Current Message marquee", marqueeMessage.current);
         setForceUpdate(!forceUpdate)
     };
     const columnClass = useRef('col-12')
@@ -148,13 +152,32 @@ const Main = () => {
         const currentTime = new Date().getTime();
         const filteredMessages = messages.filter(message => (currentTime - message.timestamp < 30000));
         console.log(filteredMessages);
-        
         filteredMessages.forEach((message, index) => {
-            const columnIndex = Math.floor(index / 5);
-            columns[columnIndex].push(message);
+            if (filteredMessages.length <= 5) {
+                // Case 1: All messages in the 0th column
+                columns[0].push(message);
+            } else if (filteredMessages.length > 5 && filteredMessages.length <= 10) {
+                // Case 2: First 5 messages in the 1st column, rest in the 0th column
+                if (index < 5) {
+                    columns[1].push(message);
+                } else {
+                    columns[0].push(message);
+                }
+            } else if (filteredMessages.length > 10) {
+                // Case 3: First 5 in the 2nd column, next 5 in the 1st column, rest in the 0th column
+                if (index < 5) {
+                    columns[2].push(message);
+                } else if (index >= 5 && index < 10) {
+                    columns[1].push(message);
+                } else {
+                    columns[0].push(message);
+                }
+            }
+            // const columnIndex = Math.floor(index / 5);
+            // columns[columnIndex].push(message);
         });
         messageColumns.current = columns;
-        console.log(messageColumns.current);
+        // console.log(messageColumns.current);
         
         setForceUpdate(!forceUpdate);
     };
@@ -179,7 +202,7 @@ const Main = () => {
                                 {column.map((row) => (row.image &&
                                     <div key={row.id} className="d-flex message-row align-items-center">
                                         <img src={`data:image/jpg;base64,${row.image}`} className="d-image" alt={row.id} />
-                                        <span className="text-light fw-bolder display-4 text-bold">{row.id}</span>
+                                        <span className="text -light cha ngecolor fw-bolder display-4 text-bold">{row.id}</span>
                                     </div>
                                 ))}
                             </div>)
